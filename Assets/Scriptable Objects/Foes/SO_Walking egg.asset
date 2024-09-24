@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e983064daa2106640ad0756d5b2f4ecf, type: 3}
+  m_Name: SO_Walking egg
+  m_EditorClassIdentifier: 
+  monsterName: Walking Egg
+  level: 1
+  habitat: -1
+  season: 8
+  materials:
+  - {fileID: 11400000, guid: aa3ee59a53e7bdd48a6dc2053ec8b2a8, type: 2}
+  - {fileID: 11400000, guid: c853586594cb9224cb1c8aa60a28aecd, type: 2}
+  dragonicaNumber: 2
+  hp: 4
+  mp: 4
+  initiative: 9
+  condition: 6
+  abilities: 02000000080000000200000002000000
+  accuracy: 0800000008000000
+  damage: 6
+  armor: 0
+  description: A mysterious seventy-centimeter tall egg with human-like arms and
+    legs that can be seen riding around the world. The arms and legs of the Riding
+    Egg are pale and slender and allow the Riding Egg to ride various swift-footed
+    animals such as black swans or even unicorns.
+  specialAbility: "Travelers\u2019 Blessing"
+  sA_Description: 'It is said that if a Walking Egg is defeated by reducing its HP
+    to
+
+    exactly 0, a blessing occurs. All members of a party so blessed will
+    receive 100 XP.'
